@@ -26,7 +26,7 @@ public class Main extends Activity {
 	}
 
 	/*
-	 * 校正圖像大小
+	 * 靽格迤 UI 憭批��
 	 */
 	private void correctionViewSize() {
 		appName.measure(0, 0);
